@@ -27,5 +27,13 @@ git checkout -b branchname #create new branch
 ```bash
 git checkout main #switch branches
 ```
+```bash
+git diff #show changes of a branch
+```
+```bash
+git merge  #merge branch with main
+```
+
+
 
 
