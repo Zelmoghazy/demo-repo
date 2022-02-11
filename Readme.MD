@@ -15,6 +15,4 @@ git commit -m "title" -m "description"
 ```
 git push
 ```
-```
-git satus
-```
+
