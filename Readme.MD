@@ -33,6 +33,12 @@ git diff #show changes of a branch
 ```bash
 git merge  #merge branch with main
 ```
+```bash
+git pull  #pull merge from github
+```
+```bash
+git branch -d branchname #delete branch after merge
+```
 
 
 
