@@ -18,4 +18,14 @@ git push origin main
 ```bash
 git init #initialize git repo from a local folder
 ```
+```bash
+git branch #check which branch you are on
+```
+```bash
+git checkout -b branchname #create new branch
+```
+```bash
+git checkout main #switch branches
+```
+
 
